@@ -1,6 +1,6 @@
 ### Eight-Puzzle Solver
 
-####Samuel Hwang (SID: 861152953).
+####Written by Samuel Hwang
 
 Attachments:
 - main.cpp
