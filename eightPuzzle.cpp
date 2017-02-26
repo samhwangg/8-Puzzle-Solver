@@ -866,7 +866,3 @@ void eightPuzzle::displayPath()
 	cout << "Finished!\n";
 	return;
 }
-
-
-
-
